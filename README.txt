@@ -28,4 +28,4 @@ Avoid zero overs input
 
 Future Improvements: - Add player stats - Improve UI - Deploy online
 
-Author: Abhishek Verma
+Author: Abhishek Prasad
